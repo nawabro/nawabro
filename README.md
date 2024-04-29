@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am currently working at MBMC College as Lecturer of Economics and Mathematics.<br>I am currently building four forecasting models: CNN,LSTM,CNN-LSTM and CNN-Bidirectional LSTM for predicting monthly CPI of Nepal.<br><br>
+With a strong foundation in Python programming, I've extensively taught Machine Learning, Deep Learning, and Data Wrangling concepts, supported by my expertise in Statistics, Linear Algebra, and Calculus. Now, seeking to transition into roles such as Machine Learning Engineer, Data Scientist, or Data Analyst, I'm eager to apply my teaching experience to real-world challenges. Emphasizing both technical skills and soft skills development, I aim to drive innovation and make a meaningful impact in the field of data science<br><br>
 
 
 ## 🌐 Socials:
