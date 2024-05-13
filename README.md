@@ -45,6 +45,6 @@ I'm a versatile professional skilled in data science, econometrics, statistics, 
 
 ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nawabro&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nawabro)](https://git.io/streak-stats)
