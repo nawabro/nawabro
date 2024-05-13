@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-With a strong foundation in Python programming, I've extensively taught Machine Learning, Deep Learning, and Data Wrangling concepts, supported by my expertise in Statistics, Linear Algebra, and Calculus. Now, seeking to transition into roles such as Machine Learning Engineer, Data Scientist, or Data Analyst, I'm eager to apply my teaching experience to real-world challenges. Emphasizing both technical skills and soft skills development, I aim to drive innovation and make a meaningful impact in the field of data science<br><br>
+I'm a versatile professional skilled in data science, econometrics, statistics, and academic writing. I excel in extracting insights from data using advanced statistical techniques and modeling complex relationships across various domains including finance and economics. With a strong foundation in statistics, I bring analytical rigor to every project. Effective communication of findings through academic writing is my forte. Eager to leverage my diverse skill set to drive impactful solutions across multiple fields<br><br>
 
 
 ## 🌐 Socials:
