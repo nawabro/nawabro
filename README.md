@@ -10,14 +10,34 @@ I'm a versatile professional skilled in data science, econometrics, statistics, 
 - 📧 Gmail: [nawabro39@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/nawabro]
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nawabro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nawabro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nawabro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Skills
 
----
-[![](https://visitcount.itsvg.in/api?id=nawabro&icon=0&color=0)](https://visitcount.itsvg.in)
+### Web Development
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+
+### Databases
+
+![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+
+### Machine Learning / Data Analysis
+
+![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![](https://img.shields.io/badge/-nltk-B39DDB?style=flat-square&logo=nltk&logoColor=black)
+![](https://img.shields.io/badge/-Matplotlib-008080?style=flat-square&logo=matplotlib)
+![](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=seaborn)
+![](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly)
+![](https://img.shields.io/badge/-TensorFlow-gray?style=flat-square&logo=TensorFlow)
+![](https://img.shields.io/badge/-Keras-orange?style=flat-square&logo=Keras)
+![](https://img.shields.io/badge/-PyTorch-yellow?style=flat-square&logo=PyTorch)
+![](https://img.shields.io/badge/-ScikitLearn-blue?style=flat-square&logo=scikit-learn)
+
+### DevOps
+
+![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
