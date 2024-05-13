@@ -10,6 +10,9 @@ I'm a versatile professional skilled in data science, econometrics, statistics, 
 - 📧 Gmail: [nawabro39@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/nawabro]
 
+
+
+
 ## Skills
 
 ### Web Development
